@@ -2,17 +2,12 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,jyapp.info
-DOMAIN-SUFFIX,jymanhua.xyz
-DOMAIN-SUFFIX,jymanhua.top
-DOMAIN-SUFFIX,jymanhua.life
-DOMAIN-SUFFIX,jymanhua.info
-DOMAIN-SUFFIX,jymanhua.club
-DOMAIN-SUFFIX,9yaomh.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,wallhaven
+DOMAIN-KEYWORD,9yaomh
+DOMAIN-KEYWORD,jymanhua
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
